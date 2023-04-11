@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrancyConvert", "CurrancyConvert.csproj", "{42181A69-4FD9-40D5-A394-7C69C173A4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConvertingNunitTest", "..\CurrencyConvertingNunitTest\CurrencyConvertingNunitTest.csproj", "{43242B83-D3EF-490D-ACF7-D3BAD47DF568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42181A69-4FD9-40D5-A394-7C69C173A4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42181A69-4FD9-40D5-A394-7C69C173A4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42181A69-4FD9-40D5-A394-7C69C173A4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42181A69-4FD9-40D5-A394-7C69C173A4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43242B83-D3EF-490D-ACF7-D3BAD47DF568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43242B83-D3EF-490D-ACF7-D3BAD47DF568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43242B83-D3EF-490D-ACF7-D3BAD47DF568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43242B83-D3EF-490D-ACF7-D3BAD47DF568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F510AD2-C39B-4EF8-8860-F109188F5CD5}
+	EndGlobalSection
+EndGlobal
